@@ -1,2 +1,2 @@
 # ITP-estudos
-estudo de itp :chorar:
+estudo de itp :choro:
