@@ -1,2 +1,2 @@
 # ITP-estudos
-estudo de itp :choro:
+Estudos e atividades avaliativas feitas na disciplina ITP.
